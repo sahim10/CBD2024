@@ -204,7 +204,7 @@ include('header.php'); // Include the header.php file
 									<img src="" data-src="images/a2.jpg" alt="" class="lazy-img w-100">
 									<!-- <a href="team-details.html" class="round-btn rounded-circle d-flex align-items-center justify-content-center tran3s"><i class="bi bi-arrow-up-right"></i></a> -->
 								</div>
-								<h4 class="fw-500 pt-20 m0">Members</h4>
+								<h4 class="fw-500 pt-20 m0">Executive Members</h4>
 								<div class="fs-6">CBD</div>
 							</div>
 							<!-- /.card-style-fifteen -->

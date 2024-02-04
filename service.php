@@ -378,7 +378,7 @@ include('header.php'); // Include the header.php file
 										<div class="name fw-500 text-dark">Sheik Mohamed Hasim</div>
 										<p class="m0 opacity-75">-Madukkur</p>
 									</div>
-									<img src="images/media/img_08.jpg" alt="" class="avatar rounded-circle">
+									<img src="images/media/men.jpeg" alt="" class="avatar rounded-circle">
 								</div>
 							</div>
 							<!-- /.feedback-block-four -->
@@ -401,7 +401,7 @@ include('header.php'); // Include the header.php file
 										<div class="name fw-500 text-dark">Mohamed Sameer</div>
 										<p class="m0 opacity-75">-Saudi Arabia</p>
 									</div>
-									<img src="images/media/img_14.jpg" alt="" class="avatar rounded-circle">
+									<img src="images/media/men.jpeg" alt="" class="avatar rounded-circle">
 								</div>
 							</div>
 							<!-- /.feedback-block-four -->
@@ -416,7 +416,7 @@ include('header.php'); // Include the header.php file
 										<li><i class="bi bi-star-fill"></i></li>
 										<li><i class="bi bi-star-fill"></i></li>
 									</ul>
-									<img src="images/icon/icon_48.svg" alt="" class="icon">
+									<img src="images/icon/men.jpeg" alt="" class="icon">
 								</div>
 								<blockquote>I appreciate the transparency of the CBD. Receiving regular updates blood requests and blood donors.</blockquote>
 								<div class="d-flex align-items-center justify-content-between">
@@ -424,7 +424,7 @@ include('header.php'); // Include the header.php file
 										<div class="name fw-500 text-dark">SJ Jabarullah</div>
 										<p class="m0 opacity-75">-Madukkur</p>
 									</div>
-									<img src="images/media/img_15.jpg" alt="" class="avatar rounded-circle">
+									<img src="images/media/men.jpeg" alt="" class="avatar rounded-circle">
 								</div>
 							</div>
 							<!-- /.feedback-block-four -->

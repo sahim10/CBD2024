@@ -7,8 +7,8 @@ include('header.php'); // Include the header.php file
 				<div class="row justify-content-between">
 					<div class="col-md-6 wow fadeInLeft">
 						<div class="pt-20 pb-50">
-							<h1 class="hero-heading fw-bold">Delivers more, not just marketing.</h1>
-							<p class="text-lg pt-35 lg-pt-30 pb-35 lg-pb-20">Unlock your business's growth potential with a marketing agency's expertise.</p>
+							<h1 class="hero-heading fw-bold">Every blood donor is a hero.</h1>
+							<p class="text-lg pt-35 lg-pt-30 pb-35 lg-pb-20">ஒவ்வொரு ரத்த தானம் செய்பவரும் ஒரு ஹீரோ.</p>
 							<div class="d-flex flex-wrap grid-btns" >
 							<a href="#" class="btn-eighteen1 tran3s me-4 mt-10"  data-bs-toggle="modal" data-bs-target="#loginModal15" class="fw-500 signup-btn-two tran3s w-100 mt-20"><img src="images/logo - 01.png"></a>
 								<!-- <a href="#" class="btn-eighteen tran3s me-4 mt-10"  data-bs-toggle="modal" data-bs-target="#mmmm"></a> -->
@@ -257,8 +257,8 @@ include('header.php'); // Include the header.php file
 				<div class="row">
 					<div class="col-xl-5 col-lg-6 wow fadeInLeft">
                         <div class="title-one mt-20">
-							<div class="upper-title">Why Choose Us</div>
-							<h2 class="color-deep">We’ve been helping customer globally.</h2>
+							<div class="upper-title"></div>
+							<h2 class="color-deep"></h2>
 						</div>
 						<!-- /.title-one -->
                     </div>
@@ -416,7 +416,7 @@ include('header.php'); // Include the header.php file
 			<div class="container">
 				<div class="position-relative">
 					<div class="title-one mb-40 lg-mb-10 wow fadeInUp">
-						<h2>Our Members</h2>
+						<h2>Our Team Members</h2>
 					</div>
 					<!-- /.title-one -->
 					
@@ -450,7 +450,7 @@ include('header.php'); // Include the header.php file
 									<img src="" data-src="images/a2.jpg" alt="" class="lazy-img w-100">
 									<!-- <a href="team-details.html" class="round-btn rounded-circle d-flex align-items-center justify-content-center tran3s"><i class="bi bi-arrow-up-right"></i></a> -->
 								</div>
-								<h4 class="fw-500 pt-20 m0">Members</h4>
+								<h4 class="fw-500 pt-20 m0">Executive Members</h4>
 								<div class="fs-6">CBD</div>
 							</div>
 							<!-- /.card-style-fifteen -->
@@ -513,7 +513,7 @@ include('header.php'); // Include the header.php file
 				<div class="row">
 					<div class="col-lg-8 m-auto">
 						<div class="title-one text-center mb-90 lg-mb-40">
-							<h2 class="color-deep">We help 10k+ Customers to full fill their dream.</h2>
+							<!-- <h2 class="color-deep">We help 10k+ Customers to full fill their dream.</h2> -->
 						</div>
 						<!-- /.title-one -->
 					</div>

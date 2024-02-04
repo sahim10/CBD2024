@@ -42,7 +42,7 @@
 									<li><a href="">Contact</a></li>
 								</ul>
 							</div>
-							<div class="col-xxl-2 col-lg-3 col-sm-4 mb-20">
+							<!-- <div class="col-xxl-2 col-lg-3 col-sm-4 mb-20">
 								<h5 class="footer-title">Support</h5>
 								<ul class="footer-nav-link style-none">
 									<li><a href="">Terms of use</a></li>
@@ -52,8 +52,8 @@
 									<li><a href="">Self-service</a></li>
 								</ul>
 							</div>
-						</div>
-						<div class="copyright text-center">Copyright @2024 CBD inc.</div>
+						</div> -->
+						<div class="copyright text-center">Copyright @2024 crescent Blood Donors.</div>
 					</div>
 					<img src="images/lazy.svg" data-src="images/shape/shape_06.svg" alt="" class="lazy-img shapes shape_01">
 					<img src="images/lazy.svg" data-src="images/shape/shape_06.svg" alt="" class="lazy-img shapes shape_02">
